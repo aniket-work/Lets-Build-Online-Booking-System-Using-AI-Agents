@@ -42,7 +42,7 @@ While our example uses a fictional hotel, the concepts we cover can be applied t
 ![Design Diagram](design_docs/design.png)
 
 
-# Tutorial: Let's Build Hotel Check in system using AI Agents 
+# Tutorial: Lets Build Online Booking System Using AI Agents
 
 ## Prerequisites
 - Python installed on your system.
@@ -71,7 +71,7 @@ While our example uses a fictional hotel, the concepts we cover can be applied t
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the 'Let's Build Hotel Check in system using AI Agents' project:
+Follow these steps to set up and run the Online Booking System Using AI Agents
 
 1. Navigate to your project directory:
    ```
@@ -86,12 +86,12 @@ Follow these steps to set up and run the 'Let's Build Hotel Check in system usin
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-## Run - Hands-On Guide: Let's Build Hotel Check in system using AI Agents
+## Run - Hands-On Guide: Lets Build Online Booking System Using AI Agents
 
    ```bash 
      
       # Run 
-      streamlit run main.py
+      streamlit run app.py
       
    ```
 
