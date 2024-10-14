@@ -10,7 +10,7 @@ Picture this: You’ve just arrived at a hotel after a long journey. You’re ti
 
 We’re creating an AI-powered hotel check-in system. Our system assumes you’ve already made a reservation, and now you’re ready to check in. It’s designed to make the check-in process smooth and effortless, using a friendly chat interface powered by artificial intelligence.
 
-Full Article : [https://medium.com/ai-advances/Lets-Build-Online-Booking-System-Using-AI-Agents-b195e7da96a1
+Full Article : [https://medium.com/@learn-simplified/lets-build-online-booking-system-using-ai-agents-1897189f1aa3
 
 
 
